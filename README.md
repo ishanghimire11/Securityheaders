@@ -1,8 +1,8 @@
 # Securityheaders
 ## Check security headers on a target website
 
-I did this tool for my dissertation to check which security headers are enabled on certain websites.
-It just check headers and print a report about which are enabled and which not
+I developed this tool for my dissertation to check which security headers are enabled on certain websites.
+It checks the security HTTP-headers and gives the result back. 
 
 ```
 Usage: ./my.py [options] <target>
