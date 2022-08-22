@@ -1,9 +1,8 @@
-## Check security headers on a target website
+Used to check security headers on a target website. 
 
-I did this tool for my dissertation to check which security headers are enabled on certain websites.
-It just check headers and print a report about which are enabled and which not
+I developed this tool for my dissertation project to check which security headers are enabled on certain websites.
+It just checks the security headers and can also print out a JSON report of the result. 
 
-```
 Usage: ./my.py [options] <target>
 
 Options:
